@@ -1,4 +1,4 @@
-import {employee, student} from '../models/students';
+
 
 // 👉  1 
 export const empArr = [
